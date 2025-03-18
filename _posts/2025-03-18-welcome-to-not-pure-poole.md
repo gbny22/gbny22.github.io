@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 처음 글쓰는 날 오예!
+title: new post first
 date: 2025-03-18 22:18 +0800
 last_modified_at: 2025-03-18 23:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
