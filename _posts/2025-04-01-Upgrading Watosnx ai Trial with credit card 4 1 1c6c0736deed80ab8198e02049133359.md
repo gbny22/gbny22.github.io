@@ -12,7 +12,7 @@ Watonx.ai Trial을 신청 후 유료로 업그레이드 하는 모든 과정을 
 
 1\. [[Watsonx.ai Trial 신청](https://eu-de.dataplatform.cloud.ibm.com/registration/stepone?context=wx&preselect_region=true)] 페이지에서 IBM ID를 가입해 주세요.
 
-./![ScreenshotA.png](Upgrading%20Watosnx%20ai%20Trial%20with%20credit%20card%204%201%201c6c0736deed80ab8198e02049133359/ScreenshotA.png)
+./[ScreenshotA.png](Upgrading%20Watosnx%20ai%20Trial%20with%20credit%20card%204%201%201c6c0736deed80ab8198e02049133359/ScreenshotA.png)
 
 2\. Email 주소로 로그인을 하시면, watsonx.ai 가 준비됩니다.
 
