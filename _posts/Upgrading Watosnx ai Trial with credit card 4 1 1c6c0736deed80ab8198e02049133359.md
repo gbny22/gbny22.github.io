@@ -6,13 +6,13 @@ IBM watsonx.ai 체험판을 30일 무료로 사용해보면, 그 기능이 무�
 
 더 다양한 기능을 사용하기 위해서는 결제카드를 연동하여 유료버전으로  업그레이드를 해야합니다.
 
-하지만 !!!!!!!!!!IBM Watsonx.ai SaaS는 IBM Cloud에서 운영되는 B2B AI 솔루션 이기에, 재직회사의 사업자번호와 개인 신분증 2가지를 사전에 준비하셔야 하는 번거로움이 있습니다. 한번 업그레이드를 하면 다양한 기능에 다시 한번 놀라게 됩니다!!!
+하지만 IBM Watsonx.ai SaaS는 IBM Cloud에서 운영되는 B2B AI 솔루션 이기에, 재직회사의 사업자번호와 개인 신분증 2가지를 사전에 준비하셔야 하는 번거로움이 있습니다. 한번 업그레이드를 하면 다양한 기능에 다시 한번 놀라게 됩니다!!!
 
 Watonx.ai Trial을 신청 후 유료로 업그레이드 하는 모든 과정을 쉽게 알려드려 보려 합니다 :)
 
 1\. [[Watsonx.ai Trial 신청](https://eu-de.dataplatform.cloud.ibm.com/registration/stepone?context=wx&preselect_region=true)] 페이지에서 IBM ID를 가입해 주세요.
 
-./[ScreenshotA.png](Upgrading%20Watosnx%20ai%20Trial%20with%20credit%20card%204%201%201c6c0736deed80ab8198e02049133359/ScreenshotA.png)
+![ScreenshotA.png](Upgrading%20Watosnx%20ai%20Trial%20with%20credit%20card%204%201%201c6c0736deed80ab8198e02049133359/ScreenshotA.png)
 
 2\. Email 주소로 로그인을 하시면, watsonx.ai 가 준비됩니다.
 
