@@ -3,10 +3,10 @@
 title: Not Pure Poole
 description: A simple, beautiful, and powerful Jekyll theme for blogs
 url: https://gbny22.github.io
-avatar: /avatar.jpeg
+avatar: /Profile.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /wallpaper.jpeg
 
 # Gems
 plugins:
