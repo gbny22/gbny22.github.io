@@ -54,7 +54,7 @@ sass:
 # disqus: xxxxxx
 
 # Specify the author for blog posts
-author:
+author: 
   name: Gwibin Im
   url: https://gbny22.github.io
-  email: gwibin.im
+  email: gwibin.im@ibm.com
